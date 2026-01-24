@@ -22,4 +22,3 @@ mob_img = {
     "right": "../assets/right/enemy.png"
 }
 
-print(mob_img["left"])

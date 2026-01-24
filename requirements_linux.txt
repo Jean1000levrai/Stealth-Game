@@ -1,0 +1,1 @@
+easyPyEngine @ https://github.com/Jean1000levrai/EasyPyEngine/releases/download/v0.1.0/easypyengine-0.1.0-py3-none-linux_x86_64.whl#sha256=24f375cf72898de1b728c832c3cbe8d83824fe33bd131a9388125b5d3ceac013
