@@ -3,7 +3,7 @@
 It was supposed to be a stealth game but it was too much work for a small demo
 
 ## Screenshots
-![screen1](ressources/demo.gif)
+![screen1](ressources/demo2.gif)
 
 
 ## Controls
